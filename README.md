@@ -32,3 +32,4 @@ These scripts are already setup when you deploy an instance.
 If you are deploying to an alternative service or to a server, please refer to the [wiki](https://github.com/holy-unblocker/website-aio/wiki).
 
 If you need help deploying, open a ticket in our [Discord server](https://discord.gg/gvenmHBZsQ).
+Ok
